@@ -69,7 +69,7 @@ Key goals of this project:
 ---
 
 ## Project Structure
-
+```bash
 /src
   /Assets # Images & media
   /Components # Reusable components
@@ -84,7 +84,7 @@ Key goals of this project:
   main.jsx # App entry point
   App.jsx # App routes
 /dist # Production build output (auto-generated)
-
+```
   
 ---
 
@@ -107,7 +107,7 @@ npm install
 npm run dev
 
 ---
-
+```
 Future Improvements
 
  . Add authentication & user accounts
