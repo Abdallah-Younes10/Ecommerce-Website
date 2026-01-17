@@ -4,8 +4,6 @@ import "./index.css";
 import App from "./App.jsx";
 import { Provider } from "react-redux";
 import { store } from "./Redux/store";
-// import "flowbite";
-// import "flyonui/flyonui.js";
 import { QueryClient, QueryClientProvider } from "@tanstack/react-query";
 
 // إنشاء كائن QueryClient
