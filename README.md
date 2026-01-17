@@ -123,7 +123,6 @@ Author
 
 Abdullah Younes
 
-Frontend Developer | React Enthusiast
+Frontend Developer | React 
 
-LinkedIn
- | GitHub
+
