@@ -53,7 +53,7 @@ export const ProductDetailsContent = ({ product }) => {
     toast.success(isFav ? "Removed from wishlist 💔" : "Added to wishlist ❤️");
   };
   return (
-    <div className="grid md:grid-cols-2 gap-8">
+    <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
       {/* Gallery */}
       <ProductGallery images={images} title={title} />
 
