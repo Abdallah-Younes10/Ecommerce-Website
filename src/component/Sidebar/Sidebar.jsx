@@ -133,7 +133,7 @@ const Sidebar = () => {
       <div className="flex overflow-hidden">
         {/* Sidebar */}
         <aside
-          className={`fixed lg:sticky top-50 md:top-65 lg:top-0 z-50 w-64 h-screen bg-white dark:bg-slate-800 border-e
+          className={` absolute lg:sticky lg:top-0 z-50 w-64 h-screen bg-white dark:bg-slate-800 border-e
   overflow-y-auto transition-transform ${
     sidebarOpen ? "translate-x-0" : "-translate-x-full"
   } xl:translate-x-0`}
