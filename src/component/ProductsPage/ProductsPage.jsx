@@ -1,0 +1,12 @@
+import React from 'react'
+import  Sidebar  from '../Sidebar/Sidebar'
+
+
+export default function ProductsPage() {
+  return (
+    <div>
+         <Sidebar />
+      
+    </div>
+  )
+}
